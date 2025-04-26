@@ -1,0 +1,8 @@
+theme: minima
+
+title: "Grainier’s Engineering Notes"
+author: "Grainier Perera"
+description: >-
+  A living notebook of lessons learned in backend development, stream processing,
+  distributed systems, AI agents, and data engineering—kept as a reference for
+  myself and anyone else who finds it useful.
