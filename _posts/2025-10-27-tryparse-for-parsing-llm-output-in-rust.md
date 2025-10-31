@@ -166,8 +166,8 @@ Add the `derive` feature for fuzzy matching and union types:
 
 ```toml
 [dependencies]
-tryparse = { version = "0.2", features = ["derive"] }
-tryparse-derive = "0.2"
+tryparse = { version = "0.3", features = ["derive"] }
+tryparse-derive = "0.3"
 ```
 
 **Fuzzy Field Matching**: Handles different naming conventions automatically.
@@ -356,12 +356,12 @@ Some areas I'm thinking about for future versions:
 
 ```toml
 [dependencies]
-tryparse = "0.2"
+tryparse = "0.3"
 serde = { version = "1.0", features = ["derive"] }
 
 # For advanced features:
-# tryparse = { version = "0.2", features = ["derive"] }
-# tryparse-derive = "0.2"
+# tryparse = { version = "0.3", features = ["derive"] }
+# tryparse-derive = "0.3"
 ```
 
 The library is Apache-2.0 licensed and available on [crates.io](https://crates.io/crates/tryparse). Source code is on [GitHub](https://github.com/microagents/tryparse).
